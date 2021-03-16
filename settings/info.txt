@@ -1,0 +1,56 @@
+======{ _*ZJ-Bot Information*_ }======
+    
+       *" STATUS BOT: %state "*
+
+========={ *_New Update_* }=========
+*[07-11-2020]*
+*[add]* limit media private
+*[add]* !limit
+*[add]* !resetlimit (owner)
+*[add]* !googleimage [result]
+*[add]* !tafsir [nama surah] [ayat]
+*[add]* !ngaji [nama ayat] [ayat]
+*[add]* !katabijak
+*[add]* !ptl [cewek/cowok]
+*[add]* !anime1 [judul anime] (jikanmoe)
+*[add]* !ansearch [judul anime] (dewabatch)
+*[add]* !fml
+*[add]* !zodiak [nama&tgl/bulan/tahun]
+*[add]* !pasangan [namamu & nama pasanganmu]
+*[add]* !artinama [namamu]
+*[add]* !musikyt [judul lagu] (BETA premium)
+*[add]* !ban @tag (admin ban)
+*[add]* !unban @tag (admin ban)
+*[add]* !mute (admin ban)
+*[add]* !unmute (admin ban)
+*[add]* !on/off banchat (owner)
+*[add]* !actpremium/deactpremium [628xxxxxxx] (owner)
+*[add]* !actadminban/deactadminban [628xxxxxx] (owner)
+*[add]* anti-spam (dalam perbaikan)
+
+*[14-07-2020]*
+*[add]* !google [result]
+*[add]* !bassboosted [frekuensi]
+*[add]* !tomp3
+*[fix]* !sticker
+*[fix]* !stickergif
+*[add]* !spamcall [nomor target] (premium)
+*[add]* !spamsms [no] [jumlah] (premium)
+*[fix]* !ig [LinkIg]
+*[fix]* !ytmp3 [LinkYt] (support youtube.com maupun m.youtube.com)
+*[fix]* !ytmp4 [LinkYt] (support youtube.com maupun m.youtube.com)
+*[add]* !yts [result]
+==============================
+_*GROUP ZJ-BOT FORUM V1*_
+https://chat.whatsapp.com/BVeNEi5EIZAI6eE56D6hk4
+
+_*GROUP ZJ-BOT FORUM V2*_
+https://chat.whatsapp.com/J3bQb1Ms2gx3bcKtRuGuNw
+==============================
+Jika menemukan bug kirim deskripsi bug tersebut ke Owner ZJ-Bot.
+Nomor Owner ZJ-Bot : wa.me/6283174042679
+==============================
+ketik *!donasi* jika ingin berdonasi agar bot terus aktif dan update terus
+==============================
+
+==============================
